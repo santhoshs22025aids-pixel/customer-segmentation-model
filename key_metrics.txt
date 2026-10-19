@@ -1,0 +1,7 @@
+TASK 4 — KEY METRICS (synthetic sample)
+Total customers: 15
+Observed churned customers: 7
+Observed churn rate (%): 46.7
+High rule-based risk customers: 5
+Customers with 4+ support tickets: 5
+Month-to-month customers: 7

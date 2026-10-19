@@ -1,0 +1,5 @@
+CustomerSegment,Customers,Churned,AverageTenureMonths,AverageSupportTickets,AverageMonthlyCharges,HighRiskCustomers,ObservedChurnRatePct
+Established long-term,4,0,38.5,0.5,149.99,0,0.0
+Flexible contract,1,1,14.0,3.0,79.99,0,100.0
+New + high support needs,6,6,5.83,4.5,54.99,5,100.0
+Other / developing,4,0,19.75,1.5,64.99,0,0.0
